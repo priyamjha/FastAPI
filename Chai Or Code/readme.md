@@ -18,5 +18,3 @@ uvicorn main:app --reload
 
 The `--reload` flag automatically restarts the server whenever you make changes to the code.
 This is very useful during development.
-
-```

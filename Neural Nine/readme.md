@@ -23,5 +23,3 @@ fastapi dev main.py --port 9999
 ```
 
 This also runs the app on **port 9999**, with auto-reload enabled by default.
-
-```

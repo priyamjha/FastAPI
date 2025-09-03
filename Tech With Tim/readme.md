@@ -69,5 +69,3 @@ updated_task = task.copy(update=task_update.model_dump(exclude_unset=True))
 
 * `.dict()` → `.model_dump()`
 * `.json()` → `.model_dump_json()`
-
-```
