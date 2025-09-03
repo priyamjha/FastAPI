@@ -128,8 +128,3 @@ updated_task = task.copy(update=task_update.model_dump(exclude_unset=True))
 * `.json()` → `.model_dump_json()`
 
 ```
-
----
-
-Do you want me to also add a **Project Structure** section (like showing `main.py`, `models.py`, etc.) so it looks even more professional?
-```
